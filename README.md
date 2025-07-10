@@ -13,16 +13,19 @@
 > A smart IoT system that monitors Air Quality Index (AQI) and performs intelligent automation like switching on an air purifier, sending SMS or app notifications through Blynk when thresholds are breached — making indoor air healthier and smarter.
 
 ---
-
-### 📱 Dashboard UI
-
-<img src="./screenshots/dashboard.png" width="600" alt="Dashboard UI"/>
-
-### 📊 Mobile Notifications
+### 🖥️ Dashboard Screens
 
 <div align="center">
-  <img src="./screenshots/alert1.png" width="260" alt="Mobile Alert Screenshot"/>
-  <img src="./screenshots/alert2.png" width="260" alt="Mobile Alert Screenshot"/>
+  <img src="./screenshots/desktop1.png" width="420" alt="Desktop Screenshot 1"/>
+  <img src="./screenshots/desktop2.png" width="420" alt="Desktop Screenshot 2"/>
+</div>
+
+---
+
+### 📲 Mobile Notification Demo
+
+<div align="center">
+  <img src="./screenshots/notification-demo.gif" width="260" alt="Mobile Notification Demo GIF"/>
 </div>
 
 ---
