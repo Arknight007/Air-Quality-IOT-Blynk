@@ -14,6 +14,19 @@
 
 ---
 
+### 📱 Dashboard UI
+
+<img src="./screenshots/dashboard.png" width="600" alt="Dashboard UI"/>
+
+### 📊 Mobile Notifications
+
+<div align="center">
+  <img src="./screenshots/alert1.png" width="260" alt="Mobile Alert Screenshot"/>
+  <img src="./screenshots/alert2.png" width="260" alt="Mobile Alert Screenshot"/>
+</div>
+
+---
+
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
@@ -85,19 +98,6 @@ graph TD
 | Cloud Realtime DB| Firebase (Firestore)   |
 | Styling          | Tailwind CSS           |
 | Dev Tools        | ESLint, Prettier       |
-
----
-### 📱 Dashboard UI
-
-<img src="./screenshots/dashboard.png" width="600" alt="Dashboard UI"/>
-
-### 📊 Mobile Notifications
-
-<div align="center">
-  <img src="./screenshots/alert1.png" width="260" alt="Mobile Alert Screenshot"/>
-  <img src="./screenshots/alert2.png" width="260" alt="Mobile Alert Screenshot"/>
-</div>
-
 ---
 
 ## ⚙️ How It Works
@@ -110,9 +110,6 @@ graph TD
 4. UI displays live data and system status.
 
 ---
-
-
-
 
 ## Work-Flow
 ```mermaid
@@ -130,6 +127,11 @@ sequenceDiagram
     B->>SMS: Trigger SMS Alert
     B->>R: Activate Relay (Air Purifier)
 ```
+## 📄 License
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-0d9488?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/agpl-3.0.html)
 
+This project is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
 
+---
+> Made using code, sensors, and care for cleaner air.
