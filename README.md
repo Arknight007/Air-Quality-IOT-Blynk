@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="./screenshots/desktop1.png" width="600" alt="Desktop Screenshot 1"/>
-  <img src="./screenshots/desktop2.png" width="600" alt="Desktop Screenshot 2"/>
+<!--   <img src="./screenshots/desktop2.png" width="600" alt="Desktop Screenshot 2"/> -->
 </div>
 
 ---
